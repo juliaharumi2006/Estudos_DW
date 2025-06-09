@@ -1,4 +1,3 @@
-// Espera a página carregar
 $(document).ready(function () {
     $("#botao").click(function () {
         $("#meuElemento")
